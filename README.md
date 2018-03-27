@@ -46,7 +46,7 @@ We encourage all contributors to become members. We aim to grow an active, healt
 [CNCF code of conduct]: https://github.com/cncf/foundation/blob/master/code-of-conduct.md
 [communication]: /communication.md
 [file an issue]: https://github.com/battlesnakeio/roadmap/issues/new
-[Slack]: http://battlesnakeio.slack.com
+[Slack]: http://battlesnake.slack.com
 [troubleshooting guide]: http://battlesnake.io/docs/troubleshooting
 [Twitter]: https://twitter.com/battlesnakeio
 [Community Membership]:/community-membership.md
