@@ -1,8 +1,10 @@
 # Battlesnake Licensing
 
-Battlesnake software is developed under the [GNU AGPL v3.0](http://www.gnu.org/licenses/agpl-3.0.html) license.
+Battlesnake game and server software: [GNU AGPL v3.0](http://www.gnu.org/licenses/agpl-3.0.html)
 
-Documentation and other written work is provided under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
+Starter repos and example code: [MIT](https://opensource.org/licenses/MIT)
+
+Documentation and other written work: [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## Licensing Policy
 
