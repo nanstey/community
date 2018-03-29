@@ -4,6 +4,7 @@ Welcome to the Battlesnake community!
 
 This is the starting point for joining and contributing to the Battlesnake community - improving docs, improving code, competing etc.
 
+Each of the folders marked `repo_***` are descriptions of each of the active repositories that we manage and who the owners are.
 
 ## Communicating
 
@@ -15,9 +16,12 @@ The Battlesnake community abides by the [CNCF code of conduct].  Here is an exce
 > requests, updating documentation, submitting pull requests or patches,
 > and other activities._
 
+* <battlesnake@sendwithus.com> email us with any questions at all.
+* [Slack] - Email us to join our slack channel.
 
-* [Slack] - sign up  
+## Events
 
+If you wish to host your own Battlesnake event please email us for help and guidance at <battelsnake@sendwithus.com>
 
 ## Issues
 
@@ -39,8 +43,6 @@ The [Contributor Guide](contributors/guide/README.md) provides detailed instruct
 ## Membership
 
 We encourage all contributors to become members. We aim to grow an active, healthy community of contributors, reviewers, and code owners. Learn more about requirements and responsibilities of membership in our [Community Membership] page.
-
-
 
 [Blog]: http://blog.battlesnake.io
 [CNCF code of conduct]: https://github.com/cncf/foundation/blob/master/code-of-conduct.md
