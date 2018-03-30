@@ -5,4 +5,4 @@ This repository holds all of the docs that get generated and live at http://batt
 
 ## Owners
 
-- will@sendwithus.com
+- [@codeallthethingz](https://github.com/codeallthethingz)
