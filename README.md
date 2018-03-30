@@ -21,7 +21,7 @@ The Battlesnake community abides by the [CNCF code of conduct].  Here is an exce
 
 ## Events
 
-If you wish to host your own Battlesnake event please email us for help and guidance at <battelsnake@sendwithus.com>
+If you wish to host your own Battlesnake event please email us for help and guidance at <battlesnake@sendwithus.com>
 
 ## Issues
 
