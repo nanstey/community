@@ -5,4 +5,4 @@ A snake server written in node.
 
 ## Owners
 
-- brandon@sendwithus.com
+- [@brandonb927](https://github.com/orgs/battlesnakeio/people/brandonb927)
