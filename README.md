@@ -27,7 +27,7 @@ Read the instructions below on how to add your event to the listing. If you have
 
 ### Creating the Pull Request
 
-To get your event featured on the battelsnake.io website, create a pull request in this repository adding the following code below events.md file:
+To get your event featured on the battelsnake.io website, create a pull request in this repository adding the following code below to the `docs/events.html` file:
 
 ```html
 <p>
