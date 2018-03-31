@@ -1,10 +1,8 @@
 # Battlesnake Licensing
 
-Battlesnake game and server software: [GNU AGPL v3.0](http://www.gnu.org/licenses/agpl-3.0.html)
+Battlesnake game and server software: [GNU AGPL v3.0]
 
-Starter repos and example code: [MIT](https://opensource.org/licenses/MIT)
-
-Documentation and other written work: [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
+Starter repos, example code, and everything else: [MIT]
 
 ## Licensing Policy
 
@@ -13,3 +11,6 @@ We use the GNU AGPL in an effort to require that enhancements to Battlesnake are
 ## Trademark Guidelines
 
 Battlesnake, battlesnake.io, and related logos are trademarks of Techdrop Labs Inc. Use of these trademarks requires express written consent. For trademark approval inquiries or other questions please contact [legal@sendwithus.com](mailto:legal@sendwithus.com).
+
+[MIT]: https://opensource.org/licenses/MIT
+[GNU AGPL v3.0]: http://www.gnu.org/licenses/agpl-3.0.html

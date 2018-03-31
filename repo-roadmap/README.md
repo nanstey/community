@@ -5,5 +5,5 @@ A repository for just the issues / features / ideas / bugs and suggestions to ad
 
 ## Owners
 
-- brad@sendwithus.com
-- will@sendwithus.com
+- [@bvanvugt](https://github.com/bvanvugt)
+- [@codeallthethingz](https://github.com/codeallthethingz)
