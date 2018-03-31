@@ -21,27 +21,7 @@ The Battlesnake community abides by the [CNCF code of conduct].  Here is an exce
 
 ## Events
 
-Battlesnake is open sourced - you can use the software here to host your own community event as long as you follow some basic guidelines. To host your own event, create a pull request (following these instructions) in this repository to have it announced on the battlesnake.io website. Your page should reference back to the official Battlesnake website battlesnake.io. Please read through and make sure you understand the license before using the Battlesnake name or logo in your event. Community events may not be of commercial nature; you may not charge entrence or participation fees for Battlesnake, neither a direct fee or indirect as part of another event.
-
-Read the instructions below on how to add your event to the listing. If you have any questions or need any help like hi-res pictures, best practices or anything else, please don't hesitate to contact us at battlesnake@sendwithus.com!
-
-### Creating the Pull Request
-
-To get your event featured on the battelsnake.io website, create a pull request in this repository adding the following code below to the `docs/events.html` file:
-
-```html
-<p>
-[CITY] &middot; [DATE] &middot; <a href="[LINK_TO_RSVP_PAGE]" target="_blank">RSVP</a>
-</p>
-```
-
-Replace [CITY], [DATE] and [LINK_TO_RSVP_PAGE] with your information. Here's an example:
-
-```html
-<p>
-Stockholm &middot; January 22, 2016 &middot; <a href="http://example.com" target="_blank">RSVP</a>
-</p>
-```
+If you're interested in running an event, please contact us at battlesnake@sendwithus.com!
 
 ## Issues
 
