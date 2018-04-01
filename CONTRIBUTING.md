@@ -3,6 +3,10 @@
 We love pull requests from everyone. By participating in this project, you
 agree to abide by the CNCF [code of conduct].
 
+Contributors can find a list of things we want to build / fix in the [roadmap repository](https://github.com/battlesnakeio/roadmap/issues).
+This is also where contributors can propose ideas for discussion prior to writing code.
+
+
 [code of conduct]: https://github.com/cncf/foundation/blob/master/code-of-conduct.md
 
 For the repo you want to modify
@@ -10,6 +14,7 @@ For the repo you want to modify
 - Make sure the tests pass.
 - Make your change. Add tests for your change. Make the tests pass.
 - Push to your fork and submit a pull request.
+- Write a good pull request description.
 
 At this point you're waiting on us. We like to at least comment on pull requests
 within three business days (and, typically, one business day). We may suggest
