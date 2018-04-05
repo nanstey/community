@@ -18,7 +18,7 @@ The Battlesnake community abides by the [CNCF code of conduct].  Here is an exce
 
 * <battlesnake@sendwithus.com> email us with any questions at all.
 * [Slack] - Email us to join our slack channel.
-* [Community meetups](meetup_schedule.md) - Come to one of the meetups in downtown Victoria - email us for details!
+* [Community meetups](meetups.md) - Come to one of the meetups in downtown Victoria - email us for details!
 
 ## Events
 
