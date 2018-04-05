@@ -18,6 +18,7 @@ The Battlesnake community abides by the [CNCF code of conduct].  Here is an exce
 
 * <battlesnake@sendwithus.com> email us with any questions at all.
 * [Slack] - Email us to join our slack channel.
+* [Community meetups](meetups.md) - Come to one of the meetups in downtown Victoria - email us for details!
 
 ## Events
 
@@ -30,15 +31,6 @@ please start with the [troubleshooting guide].
 
 If that doesn't answer your questions, or if you think you found a bug,
 please [file an issue].
-
-## Learn to Build
-
-Links in [contributors/devel/README.md](contributors/devel/README.md)
-lead to many relevant technical topics.
-
-## Contribute
-
-The [Contributor Guide](contributors/guide/README.md) provides detailed instruction on how to get your ideas and bug fixes seen and accepted.
 
 ## Membership
 
