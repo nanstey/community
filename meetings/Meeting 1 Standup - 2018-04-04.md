@@ -35,5 +35,4 @@ Todos
 
 Recording
 ---
-
-https://drive.google.com/open?id=1gl59vWJx1_LIouIcijR0elL1uzSrAFn0
+https://youtu.be/vlKGTTC0Jmk
