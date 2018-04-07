@@ -35,4 +35,7 @@ Todos
 
 Recording
 ---
-https://youtu.be/vlKGTTC0Jmk
+
+https://youtu.be/rIyRNHAByjc
+
+<a href="https://www.youtube.com/watch?v=rIyRNHAByjc"><img src="https://img.youtube.com/vi/rIyRNHAByjc/0.jpg"></a>
