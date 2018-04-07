@@ -36,6 +36,11 @@ please [file an issue].
 
 We encourage all contributors to become members. We aim to grow an active, healthy community of contributors, reviewers, and code owners. Learn more about requirements and responsibilities of membership in our [Community Membership] page.
 
+## FAQs
+
+- Question: Can I still compete at Battlesnake if I help out building the software?  
+  Answer: Yes!  As long as you don't try and add code that helps you win. :) 
+
 [Blog]: http://blog.battlesnake.io
 [CNCF code of conduct]: https://github.com/cncf/foundation/blob/master/code-of-conduct.md
 [communication]: /communication.md
@@ -44,3 +49,4 @@ We encourage all contributors to become members. We aim to grow an active, healt
 [troubleshooting guide]: http://battlesnake.io/docs/troubleshooting
 [Twitter]: https://twitter.com/battlesnakeio
 [Community Membership]:/community-membership.md
+
