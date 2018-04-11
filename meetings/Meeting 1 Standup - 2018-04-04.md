@@ -36,4 +36,6 @@ Todos
 Recording
 ---
 
-https://drive.google.com/open?id=1gl59vWJx1_LIouIcijR0elL1uzSrAFn0
+https://youtu.be/rIyRNHAByjc
+
+<a href="https://www.youtube.com/watch?v=rIyRNHAByjc"><img src="https://img.youtube.com/vi/rIyRNHAByjc/0.jpg"></a>
