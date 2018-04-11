@@ -17,8 +17,12 @@ The Battlesnake community abides by the [CNCF code of conduct].  Here is an exce
 > and other activities._
 
 * <battlesnake@sendwithus.com> email us with any questions at all.
-* [Slack] - Email us to join our slack channel.
+* [Slack] - Click here to join our slack channel (battlesnake.slack.com).
 * [Community meetups](meetups.md) - Come to one of the meetups in downtown Victoria - email us for details!
+
+## Contributing
+
+Please read the [CONTRIBUTING.md](CONTRIBUTING.md) guide.
 
 ## Events
 
@@ -45,7 +49,7 @@ We encourage all contributors to become members. We aim to grow an active, healt
 [CNCF code of conduct]: https://github.com/cncf/foundation/blob/master/code-of-conduct.md
 [communication]: /communication.md
 [file an issue]: https://github.com/battlesnakeio/roadmap/issues/new
-[Slack]: http://battlesnake.slack.com
+[Slack]: https://join.slack.com/t/battlesnake/shared_invite/enQtMzQ1MjIyNDAzNzgxLTJkYTQyZGM5NTYyMjI3MGZkN2U4ZTEyMGFhYjM2MzQ3NzEyOTM1N2ZhZjgwMGFlZDM0YWNiZmRhMmVkMDZkOGE
 [troubleshooting guide]: http://battlesnake.io/docs/troubleshooting
 [Twitter]: https://twitter.com/battlesnakeio
 [Community Membership]:/community-membership.md
