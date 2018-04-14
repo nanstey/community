@@ -6,7 +6,7 @@ This is the starting point for joining and contributing to the Battlesnake commu
 
 Each of the folders marked `repo_***` are descriptions of each of the active repositories that we manage and who the owners are.
 
-## Communicating
+## Code of Conduct
 
 The Battlesnake community abides by the [CNCF code of conduct].  Here is an excerpt:
 
@@ -16,9 +16,20 @@ The Battlesnake community abides by the [CNCF code of conduct].  Here is an exce
 > requests, updating documentation, submitting pull requests or patches,
 > and other activities._
 
-* <battlesnake@sendwithus.com> email us with any questions at all.
+If you believe someone is violating the code of conduct we ask that you report it to the Battlesnake community leaders here: 
+https://goo.gl/forms/fAS1scsZuOp221HO2
+
+All reports will be kept confidential. In some cases we may determine that a public statement will need to be made. If that’s the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
+
+
+## Communication 
+
+Come to talk to us!  
+
 * [Slack] - Click here to join our slack channel (battlesnake.slack.com).
+* <battlesnake@sendwithus.com> email us with any questions at all.
 * [Community meetups](meetups.md) - Come to one of the meetups in downtown Victoria - email us for details!
+
 
 ## Contributing
 
