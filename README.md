@@ -42,7 +42,7 @@ If you're interested in running an event, please contact us at battlesnake@sendw
 ## Issues
 
 If you have a question about Battelsnake or have a problem using it,
-please start with the [troubleshooting guide].
+please start by asking us about it in our slack at <https://battlesnake.slack.com>, sign up here: [Slack].
 
 If that doesn't answer your questions, or if you think you found a bug,
 please [file an issue].
