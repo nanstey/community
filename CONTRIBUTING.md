@@ -3,7 +3,7 @@
 We love pull requests from everyone. By participating in this project, you
 agree to abide by the CNCF [code of conduct].
 
-Contributors can find a list of things we want to build / fix in the [roadmap repository](https://github.com/battlesnakeio/roadmap/issues).
+Contributors can find a list of things we want to build / fix in the [roadmap repository](https://github.com/battlesnakeio/roadmap).
 This is also where contributors can propose ideas for discussion prior to writing code.
 
 
@@ -18,11 +18,13 @@ For the repo you want to modify
 
 At this point you're waiting on us. We like to at least comment on pull requests
 within three business days (and, typically, one business day). We may suggest
-some changes or improvements or alternatives.
+some changes or improvements or alternatives.  If you want to poke us about a PR 
+you have waiting please join the battlesnake slack and let us know!
 
 Some things that will increase the chance that your pull request is accepted:
 
 - Write tests.
-- Write a [good commit message][commit].
+- Write a [good commit messages][commit].
+- Have a look at the coverage tools and static analysis reports that may appear on your PR and see if you can fix them.
 
 [commit]: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
