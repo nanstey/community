@@ -14,3 +14,19 @@ Snakes has three ways of interacting with the engine.
  - `end` - A cal from the engine to tell the snake that the game has completed. 
  
 Each starter snake (should) also have three unit tests that you can run to ensure that these methods/functions are working.
+
+
+## Design Phylosophy
+The target audience for the starter snakes is mainly junior programmers (but everyone is welcome to use them).
+
+The Goals of them are to:
+ - provide the boilerplate code.
+ - [teach programming skills](mission-and-values.md#battlesnake-teaches-real-world-programming-skills).
+
+To help provide boilerplate, we should provide:
+ - http server
+ - json serialization/deserialization in the a structured/accessible format.
+
+To help teach programming skills, we should:
+ - avoid guiding the design of the code/logic.
+ - avoid provide helper functions (beyond json/http-server code)
