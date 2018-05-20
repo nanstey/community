@@ -47,6 +47,8 @@ please start by asking us about it in our slack at <https://battlesnake.slack.co
 If that doesn't answer your questions, or if you think you found a bug,
 please [file an issue].
 
+We also have a `battlesnake` tag on stackoverflow.com - https://stackoverflow.com/questions/tagged/battlesnake
+
 ## Membership
 
 We encourage all contributors to become members. We aim to grow an active, healthy community of contributors, reviewers, and code owners. Learn more about requirements and responsibilities of membership in our [Community Membership] page.
