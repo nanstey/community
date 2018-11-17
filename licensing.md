@@ -10,7 +10,7 @@ We use the GNU AGPL in an effort to require that enhancements to Battlesnake are
 
 ## Trademark Guidelines
 
-Battlesnake, battlesnake.io, and related logos are trademarks of Techdrop Labs Inc. Use of these trademarks requires express written consent. For trademark approval inquiries or other questions please contact [legal@sendwithus.com](mailto:legal@sendwithus.com).
+Battlesnake, battlesnake.io, and related logos are trademarks of Battlesnake Inc. Use of these trademarks requires express written consent. For trademark approval inquiries or other questions please contact [legal@sendwithus.com](mailto:legal@sendwithus.com).
 
 [MIT]: https://opensource.org/licenses/MIT
 [GNU AGPL v3.0]: http://www.gnu.org/licenses/agpl-3.0.html
