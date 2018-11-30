@@ -35,6 +35,7 @@ To help teach programming skills, we should:
  
  Currently the supported official starter snakes are in the following languages:
  
+ - [starter-snake-python](https://github.com/battlesnakeio/starter-snake-python) - written in [Python](https://www.python.org/downloads/release/python-2715/)
  - [starter-snake-go](https://github.com/battlesnakeio/starter-snake-go) - written in [GoLang](https://golang.org)  
  - [starter-snake-node](https://github.com/battlesnakeio/starter-snake-node) - written in [Node.js](https://nodejs.org)  
  - [starter-snake-java](https://github.com/battlesnakeio/starter-snake-java) - written in [Java](https://docs.oracle.com/javase/8/)  
