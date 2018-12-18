@@ -55,8 +55,10 @@ We encourage all contributors to become members. We aim to grow an active, healt
 
 ## FAQs
 
-- Question: Can I still compete at Battlesnake if I help out building the software?  
-  Answer: Yes!  As long as you don't try and add code that helps you win. :) 
+- **Can I still compete at Battlesnake if I help out building the software?**  
+  Yes, as long as you don't try and add code that helps you win! :)
+- **I want my snake latency to be as low as possible, what cloud & region are you in?**  
+  Google Compute Platform - US-West-1
 
 [Blog]: http://blog.battlesnake.io
 [CNCF code of conduct]: https://github.com/cncf/foundation/blob/master/code-of-conduct.md
