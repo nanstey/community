@@ -4,7 +4,7 @@ Welcome to the Battlesnake community!
 
 This is the starting point for joining and contributing to the Battlesnake community - improving docs, improving code, competing etc.
 
-Each of the folders marked `repo_***` are descriptions of each of the active repositories that we manage and who the owners are.
+`repo.md` contains descriptions of each of the active repositories that we manage and who the owners are.
 
 Documentation is available at http://docs.battlesnake.io
 
