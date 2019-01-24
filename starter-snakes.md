@@ -11,7 +11,8 @@ Snakes has three ways of interacting with the engine.
 
  - `start` - A call from the engine to tell the snake a game has begun.
  - `move` - A call from the engine to tell the snake the current board state and request the next move.
- - `end` - A cal from the engine to tell the snake that the game has completed. 
+ - `end` - A call from the engine to tell the snake that the game has completed. 
+ - `ping` - A call from the engine to keep your snake alive between games in case it gets hibernated by your cloud provider.
  
 Each starter snake (should) also have three unit tests that you can run to ensure that these methods/functions are working.
 
