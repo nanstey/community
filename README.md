@@ -61,6 +61,8 @@ We encourage all contributors to become members. We aim to grow an active, healt
   Yes, as long as you don't try and add code that helps you win! :)
 - **I want my snake latency to be as low as possible, what cloud & region are you in?**  
   Google Compute Platform - US-West-1
+- **Is there a list of specific IPs that my snake can whitelist to prevent scrapers and crawlers from hitting my snake?**
+  Unfortunately, at this time, we don't support an IP whitelist.
 
 [Blog]: http://blog.battlesnake.io
 [CNCF code of conduct]: https://github.com/cncf/foundation/blob/master/code-of-conduct.md
