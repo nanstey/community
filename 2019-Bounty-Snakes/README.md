@@ -11,8 +11,8 @@ Defeat a 2019 Bounty Snake on March 2 for a chance to win a prize! Prizes and sn
 ## [Workday](https://www.workday.com/en-ca/homepage.html)
 
 
-## [Rooof](hhttps://www.rooof.com/)
-
+## [Rooof](https://www.rooof.com/)
+Beat our team of snakes in 1v1 matches to earn entries into our grand prize draw for $1000!
 
 ## [Giftbit](https://www.giftbit.com/)
 Beat Statler and Waldorf 2v2 for a chance to win dinner and drinks at Moon Under Water with the Giftbit Bounty Snake team.
