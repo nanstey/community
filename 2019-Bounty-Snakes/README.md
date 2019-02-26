@@ -20,6 +20,7 @@ Beat Statler and Waldorf 2v2 for a chance to win dinner and drinks at Moon Under
 
 ## [Bambora](https://www.bambora.com/en/ca/)
 
+Beat our snake head-to-head on a 15 x 15 game board with 1 food and no spawn rate. Our grand prize will be $150 of gift cards(3 x $50 each) for Quazar's Arcade.
 
 ## [Schneider Electric](https://www.schneider-electric.ca/en/about-us/careers/overview.jsp)
 
