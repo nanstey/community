@@ -43,3 +43,4 @@ Krom's challenge is a 2v1 battle on a 13x13 board with 10 food. Both of the Krom
 
 
 ## [Semaphore Solutions](https://semaphoresolutions.com/)
+Beat our bounty snake to be entered into a draw to win one of our fabulous prizes! (Boardgames, snake stuffies)
