@@ -37,6 +37,7 @@ Beat Statler and Waldorf 2v2 for a chance to win dinner and drinks at Moon Under
 
 
 ## [Checkfront](https://www.checkfront.com/)
+Defeat our twin snakes Arnold and Danny in a 2v2 for a chance to win $200 at Flynn's VR.
 
 
 ## [Semaphore Solutions](https://semaphoresolutions.com/)
