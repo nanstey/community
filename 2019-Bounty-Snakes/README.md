@@ -9,7 +9,9 @@ Beat a snake to win a t-shirt or gift card for Empire Donuts. Winners will be en
 
 
 ## [Workday](https://www.workday.com/en-ca/homepage.html)
-
+Name: Workday Jake
+Conditions: Make an attempt for 1 entry into the draw. Beat Workday Jake for a second entry into the draw.
+Prizes: JBL Portable Speakers for each team member
 
 ## [Rooof](https://www.rooof.com/)
 Beat our team of snakes in 1v1 matches to earn entries into our grand prize draw for $1000!
@@ -19,7 +21,6 @@ Beat Statler and Waldorf 2v2 for a chance to win dinner and drinks at Moon Under
 
 
 ## [Bambora](https://www.bambora.com/en/ca/)
-
 Beat our snake head-to-head on a 15 x 15 game board with 1 food and no spawn rate. Our grand prize will be $150 of gift cards(3 x $50 each) for Quazar's Arcade.
 
 ## [Schneider Electric](https://www.schneider-electric.ca/en/about-us/careers/overview.jsp)
