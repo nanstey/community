@@ -43,6 +43,7 @@ Wiggles is a 1v1 battle on an 11x11 board with 121 food. He is very tough to bea
 Krom's challenge is a 2v1 battle on a 13x13 board with 10 food. Both of the Krom-snakes are very aggressive, and they'll both be targeting the challenger.
 
 ## [Redbrick](https://rdbrck.com/)
+Beat the Redbrick Bounty Snake for entry into the draw prize for a $500 Visa gift card!
 
 
 ## [Checkfront](https://www.checkfront.com/)
