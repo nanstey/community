@@ -47,7 +47,7 @@ Beat the Redbrick Bounty Snake for entry into the draw prize for a $500 Visa gif
 
 
 ## [Checkfront](https://www.checkfront.com/)
-
+Defeat our twin snakes Arnold and Danny in a 2v2 battle for a chance to win a $200 gift card at Flynn's VR!
 
 ## [Semaphore Solutions](https://semaphoresolutions.com/)
 Beat our bounty snake to be entered into a draw to win one of our fabulous prizes! (Boardgames, snake stuffies)
